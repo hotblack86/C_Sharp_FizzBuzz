@@ -1,0 +1,11 @@
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.deps.json
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.runtimeconfig.json
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.runtimeconfig.dev.json
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.dll
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/bin/Debug/netcoreapp2.2/FizzBuzz.pdb
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.csprojAssemblyReference.cache
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.AssemblyInfoInputs.cache
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.AssemblyInfo.cs
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.dll
+/Users/Hotblack/Coding/Coding/C#/FizzBuzz/obj/Debug/netcoreapp2.2/FizzBuzz.pdb
